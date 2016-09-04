@@ -20,6 +20,7 @@ public class ComparablePractice {
 		  
 		for(Fruits f:fruitList){
 			System.out.println(f.getFruitName()+" "+f.getQuantity());
+			System.out.println("first change");
 		}
 	}
 
